@@ -320,10 +320,20 @@ html{
         margin-bottom: 48px;
       }
 
+      .section-features{
+        padding: 80px 0;
+    }
+
       .slogan-img-box img{
         width: 150%;
         margin-top: 10px;
      }
+
+     .header {
+        margin: 20px 30px;
+    }
+
+     
 
     }
 
@@ -332,8 +342,8 @@ html{
     .row {padding: 0 27px;}
 
     .hero-main-heading {
-        font-size: 50px;
-        font-weight: 600;
+        font-size: 30px;
+        font-weight: 900;
     }
 
     .hero-para {
@@ -365,9 +375,10 @@ html{
         margin: 30px;
     }
 
+    
+
     .feature {
         padding: 40px;
-        color: #fff;
         text-align: left;
     }
 
@@ -383,9 +394,14 @@ html{
     }
 
     .about-icon {
-        text-align: left;
+        text-align: center;
         font-size: 70px;
     }
+
+    .about-heading{
+        
+        text-align: center;
+     }
 
     .service-heading {
         text-align: left;
@@ -411,7 +427,9 @@ html{
 
     .service-content {
         text-align: left;
+        
     }
+
 
     .slogan-img-box img {
         width: 100%;
@@ -427,13 +445,12 @@ html{
         margin-bottom: 30px;
     }
 
-    .hero-image-container img {
+    .hero-image-container {
         width: 100%;
 
     }
-
     .header {
-        padding: 20px 30px;
+        margin: 0 30px;
     }
 
 
